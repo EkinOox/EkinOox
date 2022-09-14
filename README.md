@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyllian
 - 👀 I’m interested in has all kinds of programming
-- 🌱 I’m currently learning HTML/CSS/JAVA
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
 - 💞️ I’m looking to collaborate on projects which can teach me a lot of thing
 - 📫 How to reach me : https://www.instagram.com/_ekin0ox_/
 
