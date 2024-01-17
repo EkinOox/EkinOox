@@ -4,8 +4,8 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
-    <h3 align="center">Love JS, love writting dev article and share my knowledges.</h3>
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;react+for+life">
+    <h3 align="center">Love CODING and love share my knowledges.</h3>
     <h3 align="center">I'm web developper</h3>
 </p>
 
