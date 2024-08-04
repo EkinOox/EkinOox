@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;react+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;In+deep+learning">
     <h3 align="center">Love CODING and love share my knowledges.</h3>
     <h3 align="center">I'm web developper</h3>
 </p>
